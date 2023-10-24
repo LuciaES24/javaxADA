@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<animal id="100">
+    <cachorros>
+        <cachorro>
+            <nombreCachorro>Bady</nombreCachorro>
+            <vacunas>
+                <vacuna>Rabia</vacuna>
+                <vacuna>Lismania</vacuna>
+            </vacunas>
+        </cachorro>
+        <cachorro>
+            <nombreCachorro>Yedra</nombreCachorro>
+            <vacunas>
+                <vacuna>Rabia</vacuna>
+            </vacunas>
+        </cachorro>
+        <cachorro>
+            <nombreCachorro>Pitufo</nombreCachorro>
+            <vacunas>
+                <vacuna>Lismania</vacuna>
+            </vacunas>
+        </cachorro>
+    </cachorros>
+    <coordenadas>
+        <coordenada>3,5</coordenada>
+        <coordenada>12,3</coordenada>
+    </coordenadas>
+    <nombre_animal>Boby</nombre_animal>
+    <nombre_propietario>Manuel</nombre_propietario>
+</animal>
